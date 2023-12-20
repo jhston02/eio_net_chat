@@ -31,4 +31,4 @@ and timing.
 
 
 Inline-style: 
-![alt text](https://github.com/jhston02/eio_net_client/raw/master/src/common/images/icon48.png "Exampl")
+![alt text](https://github.com/jhston02/eio_net_chat/main/docs/example.gif "Example")
