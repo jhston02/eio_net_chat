@@ -1,0 +1,4 @@
+(executable
+ (public_name eio_net_chat)
+ (name main)
+ (libraries eio_net_chat eio_main cmdliner ipaddr))

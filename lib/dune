@@ -1,0 +1,5 @@
+(library
+ (name eio_net_chat)
+ (libraries eio_main eio ocolor)
+ (preprocess
+  (pps ppx_deriving.eq ppx_deriving.show)))
